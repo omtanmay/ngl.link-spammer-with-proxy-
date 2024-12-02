@@ -1,0 +1,2 @@
+omm140.227.143.126:312#
+#"you can find the user in the url of ngl link"
