@@ -19,6 +19,8 @@ Install Required Libraries 📦
 Run the following command to install dependencies:
 
 pip install -r requirements.txt
+
+
 Your NGL Username 🔍
 Use the image below to locate your username quickly:
 
